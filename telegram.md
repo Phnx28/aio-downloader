@@ -7,6 +7,113 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 17:03
+---
+
+## mwarmonitor — post 9246
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇮🇷🇺🇸ایران بنا بر گزارش‌ها با یک «فریز بلندمدت برنامه هسته‌ای» به‌جای برچیدن کامل آن موافقت کرده و در مقابل، به‌دنبال امتیازات اقتصادی به‌جای غرامت است؛ این موضوع طبق جزئیات افشاشده از پیشنهاد اصلاح‌شده ایران که توسط شبکه سعودی «العربیه» به دست آمده، گزارش شده است.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9245
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9245_1779111216.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📝این فاحشه‌خانه‌ی فکری و لجن‌زارِ متعفنِ صداوسیما، غایتِ وقاحت و مسخ‌شدگیِ جماعتی است که مغزشان با خون، خشونت و باروت شستشو داده شده است. موجودی متوهم با لبخندی کریه، ابزارِ آدم‌کشی و پهپاد انتحاری را به عنوان مهریه به زنی ذوب‌شده در حماقت پیشکش می‌کند؛ و در کنارشان، آن آخوندِ دوزاری و مجریِ جیره‌خوار که شغلِ شریفشان سال‌هاست شرعی‌سازیِ کثافت‌کاری‌ها، صیغه‌بازی و دلالتِ مذهبی است، با رذالتی مشمئزکننده برای قیمتِ این آلتِ قتل چرتکه می‌اندازند. این نمایشِ مالامال از نجاست، ویترینِ سقوطِ مطلقِ شرف و انسانیتِ قشری است که از فلاکت و مرگ تغذیه می‌کنند و حتی پیوند ازدواج را هم به گندِ ایدئولوژیِ خون‌بار و وحشیانه‌ی خود می‌کشند.
+
+@mwarmonitor
+</div>
+
+## pm_afshaa — post 90951
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90951_1779111217.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴نیویورک تایمز: پنتاگون برای از سرگیری جنگ با ایران در روزهای آینده آماده می‌شود 
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom 
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90950
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90950_1779111218.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴سناتور لیندسی گراهام: من کاملاً اطمینان دارم که رئیس‌جمهور ترامپ به‌طور کامل وضعیت مربوط به ایران رو درک میکنه و دیگه عدم تمایل به مذاکره با حسن نیت، همراه با اقدامات تهاجمی و سرکشانه ایران تو تنگه هرمز و سراسر منطقه رو تحمل نخواهد کرد.
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## FarsiVOA — post 218057
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خاموشی اینترنت مستقیما روی کار روزنامه‌نگاران ایرانی اثر گذاشته است؛ آن هم درست در روزهایی که گزارش‌گری مستقل و راستی‌آزمایی از همیشه ضرورتی‌تر است. تیم میدان در این داده‌نما به وضعیت روزنامه‌نگاری در ایران پرداخته است
+</div>
+
+## alonews — post 120869
+
+<div align="center">
+  <a href="telegram/content/alonews_120869_1779111219.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈قائم پناه:هفتاد درصد مردم مخالف محدودیت اینترنت هستند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120868
+
+<div align="center">
+  <a href="telegram/content/alonews_120868_1779111219.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مدیرعامل آبفای تهران: تابستان امسال جیره‌بندی و قطعی آب نخواهیم داشت
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120867
+
+<div align="center">
+  <a href="telegram/content/alonews_120867_1779111220.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈معاون سازمان بورس: شرکت‌هایی که در جنگ آسیب دیده‌اند فردا نمادشان بسته خواهد بود.
+
+
+🔴 در مجموع، حدود ۴۲ نماد اصلی بازار فردا بسته خواهند ماند که چیزی حدود ۳۵ تا ۳۶ درصد ارزش بازار را شامل می‌شود
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120866
+
+<div align="center">
+  <a href="telegram/content/alonews_120866_1779111220.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزیر صمت: نباید اجازه دهیم کالاهای تولید قدیم را به قیمت جدید بفروشند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 16:53
 ---
 
