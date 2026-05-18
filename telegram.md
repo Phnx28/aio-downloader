@@ -7,6 +7,162 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 22:13
+---
+
+## VahidOOnLine — post 240844
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240844_1779129815.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️مسعود پزشکیان، رئیس‌جمهوری ایران، شامگاه دوشنبه در پیامی در شبکه اجتماعی ایکس نوشت گفتگو به معنای تسلیم نیست و جمهوری اسلامی در مذاکرات از «حقوق مردم و کشور عقب‌نشینی» نخواهد کرد.
+
+پزشکیان نوشت: «جمهوری اسلامی ایران با عزت، اقتدار و حفظ حقوق ملت وارد گفتگو می‌شود و به هیچ عنوان از حقوق قانونی مردم و کشور عقب‌نشینی نمی‌کند.»
+
+رئیس‌جمهوری ایران همچنین افزود: «ما با منطق و با تمام توان، تا پای جان، در خدمت مردم و حافظ منافع و عزت ایران خواهیم بود.»
+
+این اظهارات در شرایطی مطرح می‌شود که دونالد ترامپ از آخرین طرح ۱۴ ماده‌ای تهران برای پایان جنگ ابراز نارضایتی کرده و گفته است «به هیچ وجه حاضر به دادن امتیاز» به ایران نیست.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11579
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با شما : اره الان دوباره مجددا صدا اومد
+جالبه تو دوران جنگ قبلی اصلا قشم پدافند این چنینی نداشت و ما اینجور صدایی رو واسه اولین بار هست تو قشم می‌شنویم
+@withyashar
+</div>
+
+## WithYashar — post 11578
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با شما : سلام یاشار
+همین الان پدافند قشم بدجووووور زد
+پدافند خود شهر قشم حتی توی جنگ ۴۰ روزه هم کار نکرده بود
+ولی پنج دیقه پیش بدجور شلیک کرد
+@withyashar
+</div>
+
+## WithYashar — post 11577
+
+
+
+
+## WithYashar — post 11576
+
+
+
+
+## WithYashar — post 11575
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ: اگر فرد اشتباهی جانشین من شود، برای آمریکا فاجعه خواهد بود
+
+رئیس‌جمهور آمریکا در مصاحبه‌ای که روز دوشنبه منتشر شد، گفت اگر پس از پایان دوره ریاست‌جمهوری‌اش «فرد اشتباهی» قدرت را به دست بگیرد، این موضوع برای ایالات متحده فاجعه‌بار خواهد بود.
+@withyashar
+</div>
+
+## mwarmonitor — post 9267
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴بر اساس ادعای منابع عراقی و منطقه‌ای، بیشتر حملاتی که علیه عربستان سعودی انجام شده، توسط گروه‌های شبه‌نظامی در عراق که به ایران نزدیک هستند یا از ایران حمایت می‌شوند انجام شده است. AL_MONITOR
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341890
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341890_1779129816.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: Evacuation orders issued as a fast-moving brush fire threatens homes near Simi Valley, California. | @AmericaRpts @johnrobertsFox @SandraSmithFox
+</div>
+
+## FoxNewsTwitter — post 341889
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341889_1779129817.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: Vice President Vance says the best way to protect America's spirit of generosity is to lock fraudsters up behind bars.
+
+"One of the things I love about our country is that we're a generous people. We look after one another."
+
+"But that American generosity of spirit depends on having leaders who take care of those kids and who protect your money."
+
+"Now we have leaders who promote you, who fight for you, who fight for your tax dollars, and fight for the kids who need those programs. And ladies and gentlemen, the only way to do that is to send the fraudsters to prison."
+</div>
+
+## IranIntlTV — post 337826
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337826_1779129819.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مسعود پزشکیان در شبکه ایکس نوشت: «گفت‌وگو به معنای تسلیم نیست. جمهوری اسلامی با عزت، اقتدار و حفظ حقوق ملت وارد گفت‌وگو می‌شود و به هیچ عنوان از حقوق قانونی مردم و کشور عقب‌نشینی نمی‌کند.»
+او افزود: «ما با منطق و با تمام توان، تا پای جان، در خدمت مردم و حافظ منافع و عزت ایران خواهیم بود.»
+https://iranintl.com/202605181966
+</div>
+
+## IranIntlTV — post 337825
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337825_1779129819.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+۲۴ با فرداد فرحزاد
+@iranintltv
+</div>
+
+## alonews — post 120939
+
+<div align="center">
+  <a href="telegram/content/alonews_120939_1779129820.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پزشکیان: گفت‌وگو به معنای تسلیم نیست
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120938
+
+<div align="center">
+  <a href="telegram/content/alonews_120938_1779129820.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فارس: قلب اینترنت جهان در دست ایران است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120937
+
+<div align="center">
+  <a href="telegram/content/alonews_120937_1779129820.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈مرکز آمار کشور:در اردیبهشت امسال، گوجه فرنگی و خیار بیشترین میزان تورم را تجربه کرده‌اند و تخم مرغ رتبه سوم را در اختیار دارد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 22:00
 ---
 
