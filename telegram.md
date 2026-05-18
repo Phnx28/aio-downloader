@@ -7,6 +7,357 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 18:58
+---
+
+## VahidOOnLine — post 240815
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240815_1779118125.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مدیر مرکز روابط عمومی و اطلاع‌رسانی وزارت بهداشت درباره وضعیت مجتبی خامنه‌ای گفت: «اتفاق خاصی برای او رخ نداده بود و صرفا چند زخم برداشته بودند.»
+این مقام وزارت بهداشت تاکید کرد: «زخم‌ها از نوعی نبودند که چهره ایشان را مخدوش کنند» و اضافه کرد مجتبی خامنه‌ای جانباز نشده و قطع عضو نداشته و تنها در محل جراحت روی پای او چند بخیه زده شده است.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11555
+
+<div align="center">
+  <img src="telegram/content/WithYashar_11555_1779118126.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علی‌ آقا عشقه ، چقدر راحت و خاکی‌ کانکت شدیم… بد یه عده … چی بگم… درست میشه اونم … در آخر هر چیزی فقط‌ مردمن که مهم هستند🙌🏾❤️‍🩹
+@withyashar
+</div>
+
+## WithYashar — post 11554
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+کمی‌پیش ستون عظیم دود از جنوب تهران، دوربین به سمت : بزرگراه یادگار عمام، جنوب @withyashar
+</div>
+
+## mwarmonitor — post 9255
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🇺🇸🇮🇷 رویترز: آمریکا پیشنهاد جدید ایران را رد کرد.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341876
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341876_1779118127.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: U.S. Africa Command and Nigerian forces carry out a series of kinetic strikes against ISIS fighters in Northeastern Nigeria.
+
+The strikes took place on May 17th, targeting ISIS militants without harming any U.S. or Nigerian forces.
+</div>
+
+## DEJradio — post 4701
+
+<div align="center">
+  <a href="telegram/content/DEJradio_4701_1779118128.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺🎥 تصاویر منتشر شده از فراز تنگه هرمز از نگاه یک هواپیمای مسافربری.
+
+#تنگه_هرمز
+@DEJradio
+</div>
+
+## IranIntlTV — post 337803
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337803_1779118130.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مدیر مرکز روابط عمومی و اطلاع‌رسانی وزارت بهداشت درباره وضعیت مجتبی خامنه‌ای گفت: «اتفاق خاصی برای او رخ نداده بود و صرفا چند زخم برداشته بودند.»
+این مقام وزارت بهداشت تاکید کرد: «زخم‌ها از نوعی نبودند که چهره ایشان را مخدوش کنند» و اضافه کرد مجتبی خامنه‌ای جانباز نشده و قطع عضو نداشته و تنها در محل جراحت روی پای او چند بخیه زده شده است.
+https://iranintl.com/202605189680
+</div>
+
+## FarsiVOA — post 218064
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺انتقاد پرزیدنت ترامپ از رویکرد برخی رسانه‌ها در رابطه با عملیات نظامی علیه رژیم ایران
+
+▪️دونالد ترامپ، رئیس جمهوری ایالات متحده، روز دوشنبه ۲۸ اردیبهشت در پیامی در شبکه «تروت سوشال» ضمن تاکید دوباره بر شکست نظامی رژیم ایران، نوشت که رسانه‌های منتقد دولت او حتی در صورت تسلیم کامل جمهوری اسلامی نیز واقعیت را وارونه جلوه خواهند داد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/president-trump-truth-social-criticism-of-media-coverage-of-iran-war/8151224.html/?nocach=1
+</div>
+
+## FarsiVOA — post 218063
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عراق دوباره در کانون تنش؛ حمله پهپادی به عربستان سعودی و بازگشت پرونده پهپادهای عراقی
+</div>
+
+## Persian_Trend_Official — post 14416
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14416_1779118131.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💥
+💥
+💥
+
+📰:کاخ سفید پیشنهاد تجدیدنظر شده ایران برای پایان دادن به درگیری جاری را رد کرده و آن را ناکافی دانسته است.
+
+
+🇮🇷
+🇺🇸مقامات آمریکایی هشدار داده‌اند که اگر تهران در برنامه هسته‌ای خود امتیازات عمده‌ای ندهد، ممکن است اقدامات نظامی از سر گرفته شود. (منبع Axios)
+
+
+🦁Phantom
+🦁
+
+
+✉️@persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20347
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 مقامات رژیم :
+
+پالایشگاه و زیرساخت‌های پتروشیمی آسیب‌دیده در منطقه پارس جنوبی طی حدود دو سال بازسازی خواهند شد و انتظار می‌رود حدود نیمی از ظرفیت آن‌ها پیش از زمستان احیا شود.
+
+مقام‌ها گفته‌اند این تأسیسات با فناوری ارتقایافته و ظرفیت تولید بالاتر دوباره به مدار بازخواهند گشت.
+
+@IranianMunds
+</div>
+
+## IranianMinds — post 20346
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴روزنامه ایران:
+
+از وقتی اینترنت تو ایران قطع شده فروش سیمکارت عراقی زیاد شده؛
+چون این سیمکارتا تا 2کیلومتری داخل ایران جواب میدن و مردم تو شهرهای مرزی با عراق میرن سیمکارت عراقی میخرن و میرن 2 کیلومتری مرز تا کارشونو انجام بدن.
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20345
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20345_1779118131.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💥 با هر ثبت نام 
+🅰️
+🅰️
+🅰️ هزار تومن جایزه بگیرید
+
+
+✔️ میتونید شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید
+
+⚽️  پوشش کامل مسابقات ورزشی 
+
+💯  پیش‌بینی با بهترین ضرایب 
+
+⭐️ تجربه سریع و حرفه‌ای
+
+
+💰پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن
+
+
+☑️ کانال تلگرام: 
+
+➡️ @winro_io  
+
+
+🎁 هدیه خود را با ثبت نام در سایت دریافت کنید: 
+
+➡️ Winro.io
+G28
+سایت اصلی در روزهای آینده بازگشایی خواهد شد A
+💎
+</div>
+
+## IranianMinds — post 20344
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 فوری - آکسیوس به نقل از مقامات آمریکایی:
+
+آخرین پیشنهاد ایران توسط آمریکا رد شد.
+این پیشنهاد حتی چیزی نزدیک به خواسته های آمریکا برای رسیدن به یک توافق نیست.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281384
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یکی از این منابع گفت که پاکستان همچنین دو اسکادران پهپاد ارسال کرده است. هر پنج منبع به رویترز گفتند که ۸۰۰۰ سرباز در عربستان مستقر شدند و وعده داده شده است که در صورت نیاز تعداد بیشتری اعزام شود. به گفته این منابع، سیستم دفاع هوایی چینی اچ‌‌کیو-۹ هم به این کشور ارسال شده است.
+بر اساس این گزارش، مسئولیت اداره تجهیزات بر عهده پرسنل پاکستانی است اما عربستان سعودی هزینه آن را می‌پردازد.
+شهریور ماه گذشته، پاکستان و عربستان سعودی از امضای یک پیمان دفاعی خبر داده بودند که بر اساس آن، هرگونه تجاوز علیه هر یک از دو کشور به‌عنوان اقدامی خصمانه علیه هر دو تلقی می‌شود. در مقابل قرار شد که عربستان سعودی به پاکستان که یک قدرت هسته‌ای است، نفت ارزان و کمک مالی دهد.
+افزایش همکاری نظامی پاکستان و عربستان در حالی است که اسلام‌آباد در جنگ آمریکا و اسرائیل با ایران نقش میانجی را بر عهده داشته است.
+
+@BBCPersian
+</div>
+
+## BBCPersian — post 281383
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281383_1779118131.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻خبرگزاری رویترز به نقل از دو منبع می‌گوید که پاکستان در چارچوب پیمان دفاعی خود با ریاض، ۸۰۰۰ نیرو،‌ یک اسکادران هواپیمای جنگی و یک سامانه پدافند هوایی در عربستان مستقر کرده است.
+
+پیشتر وزارت دفاع عربستان بدون اشاره به جزئیات، استقرار شماری جنگنده و نیروی پاکستان در چارچوب توافق دو کشور را اعلام کرده بود اما حالا رویترز برای اولین بار جزییات بیشتری ارائه کرده است.
+
+رویترز در گزارش اختصاصی خود، از سه مقام امنیتی و دو منبع دولتی نقل کرده است که نیروی مستقر شده دارای قابلیت رزمی است و هدف از اعزام آن، دفاع از عربستان در صورت حملات بیشتر به آن کشور است.
+
+رویترز می‌گوید که وزارت خارجه و دفتر مطبوعاتی ارتش پاکستان و دفتر رسانه‌ای دولت عربستان سعودی به درخواست این خبرگزاری برای اظهارنظر پاسخی ندادند.
+
+به گفته این منابع، هواپیماهای جنگی شامل حدود ۱۶ هواپیماست که عمدتا از جنگنده‌های «جی‌اف-۱۷» است که مشترکا با چین ساخته شده‌اند؛ این هواپیماها اوایل ماه آویل به پاکستان فرستاده شده بودند.
+
+📷 AFP via Getty Images
+https://bbc.in/49G1IjH
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389684
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389684_1779118132.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+احمد ایران‌دوست، بازیگر:
+«مشروب می‌خورم، کلاب می‌رم، اون‌ور که هستم با شهناز تهرانی می‌رقصم، این‌ور که میام دست‌بوس حاج قاسم‌ام، نمی‌خوره بهم؟»
+
++ با همین فرمون جلو برن تو صداسیما خودشون شعار میدن #جاویدشاه
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389683
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389683_1779118135.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جمهوری‌اسهالی مثل سگ از حمله زمینی ارتش آمریکا ترسیده و داره تو مساجد به حکومتی‌ها آموزش کار با اسلحه رو آموزش میده!
+
++ اینا اولین سرباز آمریکایی رو ببینن میرینن به خودشون و فرار میکنن😂😂
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113017
+
+<div align="center">
+  <img src="telegram/content/Hranews_113017_1779118138.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+با حکم دادگاه تجدیدنظر استان آذربایجان شرقی؛ ۱۳ شهروند به حبس محکوم شدند
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– با حکم دادگاه تجدیدنظر استان آذربایجان شرقی، یوروش مهرعلی بیگلو، حامد یگانه‌پور، ابراهیم عوض‌زاده، آراز ابراهیم‌نژاد، حسین آزادی، امیرحسین آقایی، ناصر رزمجو، داوود شیری، جواد سودبر، مهرداد قادری، علی بابایی، مرتضی نورمحمدی و محمدرضا موحد، فعالان ترک (آذربایجانی)، مجموعا به ۸۱ سال و پنج ماه حبس محکوم شدند.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، رأی دادگاه تجدیدنظر استان آذربایجان شرقی به وکیل مدافع متهمان ابلاغ شده است.
+
+این حکم روز شنبه ۲۶ اردیبهشت ماه توسط #دادگاه_تجدیدنظر استان آذربایجان شرقی، به وکیل این افراد ابلاغ شده است. طبق رای صادره، این افراد مجموعا به ۸۱ سال و پنج ماه حبس محکوم شدند.
+شرح عناوین اتهامی هر یک از متهمان به همراه میزان محکومیت قطعی صادره به شرح زیر است:
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ -  @Hranews  کانال هرانا 🆑
+</div>
+
+## manototv — post 105601
+
+<div align="center">
+  <a href="telegram/content/manototv_105601_1779118139.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تماسی از ایران:
+«خانواده‌های بچه‌های دربند رو برای کمک‌رساندن دریابیم»
+</div>
+
+## manototv — post 105600
+
+<div align="center">
+  <a href="telegram/content/manototv_105600_1779118142.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+عفو بین‌الملل اعلام کرد شمار اعدام‌ها در جهان در سال ۲۰۲۵ به بالاترین سطح ثبت‌شده در ۴۴ سال گذشته رسیده و ایران با ثبت دست‌کم ۲۱۵۹ اعدام، عامل اصلی این افزایش بوده است.
+
+بر اساس گزارش سالانه این سازمان، در مجموع دست‌کم ۲۷۰۷ نفر در ۱۷ کشور اعدام شده‌اند؛ آماری که نسبت به سال ۲۰۲۴ حدود ۷۸ درصد افزایش نشان می‌دهد.
+
+عفو بین‌الملل اعلام کرد شمار اعدام‌ها در ایران بیش از دو برابر سال گذشته شده و ایران پس از چین، که آمار رسمی اعدام‌هایش منتشر نمی‌شود، در صدر کشورهای مجری اعدام قرار دارد.
+
+در این گزارش آمده است عربستان سعودی با دست‌کم ۳۵۶ اعدام در رتبه بعدی قرار گرفته و بخش قابل توجهی از این احکام به جرایم مرتبط با مواد مخدر مربوط بوده است.
+
+بر اساس این گزارش، آمریکا نیز شمار اعدام‌های خود را از ۲۵ مورد در سال ۲۰۲۴ به ۴۷ مورد در سال ۲۰۲۵ افزایش داده است. شمار اعدام‌ها در مصر، سنگاپور و کویت نیز نسبت به سال قبل افزایش یافته است.
+
+عفو بین‌الملل همچنین اعلام کرد چین، مصر، جمهوری اسلامی، عراق، کره شمالی، عربستان سعودی، سومالی، آمریکا، ویتنام و یمن در پنج سال گذشته به‌طور مداوم اعدام انجام داده‌اند.
+</div>
+
+## alonews — post 120897
+
+<div align="center">
+  <a href="telegram/content/alonews_120897_1779118143.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری / رویترز: آمریکا پیشنهاد جدید ایران را رد کرد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120896
+
+<div align="center">
+  <a href="telegram/content/alonews_120896_1779118144.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴فوری / آکسیوس: ترامپ در حال بررسی از سرگیری جنگ است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120895
+
+<div align="center">
+  <a href="telegram/content/alonews_120895_1779118144.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈کمیسر اقتصادی اتحادیه اروپا: در نتیجه جنگ با ایران با شوک رکود تورمی مواجه هستیم
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 18:43
 ---
 
