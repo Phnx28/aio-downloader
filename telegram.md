@@ -7,6 +7,204 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 18:23
+---
+
+## VahidOOnLine — post 240809
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240809_1779116038.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه عمان حمله پهپادی یک‌شنبه به عربستان سعودی را محکوم کرد.
+عمان در بیانیه‌ای اعلام کرد هرگونه اقدام خصمانه را مردود می‌داند و از عربستان سعودی برای حفظ امنیت و ثبات خود حمایت می‌کند.
+مسقط همچنین بر خویشتنداری و حل مسائل منطقه‌ای از مسیرهای دیپلماتیک تاکید کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11551
+
+<div align="center">
+  <img src="telegram/content/WithYashar_11551_1779116038.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ در تروث : اگر ایران تسلیم شود، بپذیرد که نیروی دریایی‌اش از بین رفته و در کف دریا آرمیده است، و نیروی هوایی‌اش دیگر وجود ندارد، و اگر تمام ارتش آن از تهران خارج شود، در حالی که سلاح‌ها را زمین گذاشته و دست‌ها را بالا گرفته‌اند و هر کدام فریاد می‌زنند “تسلیم می‌شوم، تسلیم می‌شوم” و پرچم سفید را با شتاب تکان می‌دهند، و اگر تمام رهبری باقی‌مانده آن کشور همه اسناد تسلیم را امضا کنند و شکست خود را در برابر قدرت عظیم ایالات متحده آمریکا بپذیرند، و نیویورک تایمز، وال‌استریت ژورنال، سی‌ان‌ان و دیگر رسانه‌های جعلی هم تیتر بزنند که ایران یک پیروزی درخشان و استادانه بر ایالات متحده به دست آورده است، در حالی که اصلاً رقابت نزدیکی هم نبود.
+
+دموکرات‌ها و رسانه‌ها کاملاً مسیر خود را گم کرده‌اند. آن‌ها کاملاً دیوانه شده‌اند!!!
+@withyashar
+</div>
+
+## mwarmonitor — post 9251
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اگر ایران تسلیم شود، اعتراف کند که نیروی دریایی‌اش نابود شده و در کف دریا آرام گرفته است، و نیروی هوایی‌اش دیگر در میان ما نیست، و اگر تمام ارتش آن‌ها با دست‌های بالا رفته و سلاح‌های زمین‌گذاشته از تهران خارج شوند و هر کدام در حالی که پرچم سفید نمادین را به شدت تکان می‌دهند فریاد بزنند «من تسلیم می‌شوم، من تسلیم می‌شوم»، و اگر تمام رهبران باقی‌مانده آن‌ها همه «اسناد تسلیم» لازم را امضا کنند و شکست خود را در برابر قدرت و نیروی عظیم ایالات متحده باشکوه آمریکا بپذیرند، [باز هم] «نیویورک تایمز در حال سقوط»، «چاینا استریت ژورنال (همان وال استریت ژورنال!)»، «سی‌ان‌انِ فاسد و اکنون بی‌اهمیت» و همه اعضای دیگر رسانه‌های اخبار جعلی، تیتر خواهند زد که ایران یک پیروزی استادانه و درخشان بر ایالات متحده آمریکا داشته است و [این رقابت] حتی نزدیک هم نبود. دموکرات‌ها و رسانه‌ها کاملاً راه خود را گم کرده‌اند. آن‌ها کاملاً دیوانه شده‌اند!!!
+
+رئیس‌جمهور دونالد جی ترامپ (DJT)
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341875
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341875_1779116039.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW VIDEO: Cameras inside the courtroom capture the moment New York State Supreme Court Judge Gregory Carro announces that some key pieces of evidence seized from Luigi Mangione’s backpack during his arrest at a Pennsylvania McDonald's are inadmissible at trial, while some of it can still be shown to jurors, including the suspected murder weapon.
+</div>
+
+## pm_afshaa — post 90960
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90960_1779116041.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴پست جدید ترامپ:
+
+اگر ایران تسلیم شود، اعتراف کند که نیروی دریایی‌شان از بین رفته و در ته دریا است، و نیروی هوایی‌شان دیگر با ما نیست، و اگر کل ارتش‌شان از تهران خارج شود، سلاح‌ها را رها کرده و دست‌ها را بالا ببرند، هر کدام فریاد بزنند «من تسلیم می‌شوم، من تسلیم می‌شوم» در حالی که پرچم سفید نماینده را به شدت تکان می‌دهند، و اگر تمام رهبران باقی‌مانده‌شان همه «اسناد تسلیم» لازم را امضا کنند و شکست خود را در برابر قدرت و نیروی عظیم و باشکوه ایالات متحده آمریکا بپذیرند، روزنامه‌های در حال سقوط نیویورک تایمز، وال استریت ژورنال چین (WSJ!)، سی‌ان‌ان فاسد و اکنون بی‌اهمیت، و همه اعضای دیگر رسانه‌های خبری جعلی، تیتر خواهند زد که ایران پیروزی استادانه و درخشانی بر ایالات متحده آمریکا داشته است، حتی نزدیک هم نبود. دموکرات‌ها و رسانه‌ها کاملاً راه خود را گم کرده‌اند. آنها کاملاً دیوانه شده‌اند!!!
+
+
+💧 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook @rainbetcom
+
+😁 @Pm_Afshaa
+</div>
+
+## pm_afshaa — post 90959
+
+<div align="center">
+  <a href="telegram/content/pm_afshaa_90959_1779116042.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴تسنیم: ایران یه پیشنهاد 14 بندی اصلاح شده به پاکستان داد تا به آمریکا برسونه و اونا هم بررسیش کنن و جواب بدن. 
+😁 @Pm_Afshaa
+</div>
+
+## IranIntlTV — post 337798
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337798_1779116042.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آژانس رسمی همکاری پلیس در اتحادیه اروپا اعلام کرد در یک عملیات هماهنگ، شبکه تبلیغاتی آنلاین مرتبط با سپاه پاسداران را هدف قرار داده است. یوروپل گزارش داد در جریان تحقیقات درباره این شبکه، محتوایی شامل ویدیوهای تولیدشده با هوش مصنوعی، پیام‌های تبلیغاتی و فراخوان‌هایی برای انتقام‌گیری از کشته شدن علی خامنه‌ای شناسایی شده است.
+
+علی حسن‌پور، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## IranIntlTV — post 337797
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337797_1779116044.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آژانس رسمی همکاری پلیس در اتحادیه اروپا اعلام کرد در یک عملیات هماهنگ، شبکه تبلیغاتی آنلاین مرتبط با سپاه پاسداران را هدف قرار داده است. یوروپل گزارش داد در جریان تحقیقات درباره این شبکه، محتوایی شامل ویدیوهای تولیدشده با هوش مصنوعی، پیام‌های تبلیغاتی و فراخوان‌هایی برای انتقام‌گیری از کشته شدن علی خامنه‌ای شناسایی شده است.
+
+علی حسن‌پور، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## IranIntlTV — post 337796
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337796_1779116046.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خارجه عمان حمله پهپادی یک‌شنبه به عربستان سعودی را محکوم کرد.
+عمان در بیانیه‌ای اعلام کرد هرگونه اقدام خصمانه را مردود می‌داند و از عربستان سعودی برای حفظ امنیت و ثبات خود حمایت می‌کند.
+مسقط همچنین بر خویشتنداری و حل مسائل منطقه‌ای از مسیرهای دیپلماتیک تاکید کرد.
+https://iranintl.com/202605188454
+</div>
+
+## Shin_Persian — post 6063
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Mon, 18 May 2026 14:45:44 UTC
+
+President Trump @POTUS:
+"If Iran surrenders, admits their Navy is gone and resting at the bottom of the sea, and their Air Force is no longer with us, and if their entire Military walks out of Tehran, weapons dropped and hands held high, each shouting “I surrender, I surrender” while wildly waving the representative White Flag, and if their entire remaining Leadership signs all necessary “Documents of Surrender,” and admit their defeat to the great power and force of the magnificent U.S.A., The Failing New York Times, The China Street Journal (WSJ!), Corrupt and now Irrelevant CNN, and all other members of the Fake News Media, will headline that Iran had a Masterful and Brilliant Victory over The United States of America, it wasn’t even close. The Dumacrats and Media have totally lost their way. They have gone absolutely CRAZY!!! President DJT"
+
+فارسی
+
+رئیس‌جمهور ترامپ @POTUS:
+
+«اگر ایران تسلیم شود، اعتراف کند که نیروی دریایی‌شان نابود شده و در کف دریا آرمیده است، و نیروی هوایی‌شان دیگر در میان ما نیست، و اگر تمام نظامیانشان از تهران خارج شوند، در حالی که سلاح‌ها را زمین گذاشته و دست‌ها را بالا برده‌اند و هر یک فریاد می‌زنند "من تسلیم هستم، من تسلیم هستم" و همزمان پرچم سفیدِ نشان‌دهنده تسلیم را دیوانه‌وار تکان می‌دهند، و اگر تمام رهبریِ باقی‌مانده آن‌ها همه "اسناد تسلیم" لازم را امضا کنند، و شکست خود را در برابر قدرت و نیروی عظیم ایالات متحده (USA) باشکوه بپذیرند، نیویورک تایمزِ در حال شکست، چاینا استریت ژورنال (وال استریت ژورنال!)، سی‌ان‌انِ فاسد و حالا بی‌ارزش، و تمام دیگر اعضای رسانه‌های اخبار جعلی، تیتر خواهند زد که ایران پیروزی مقتدرانه و درخشانی بر ایالات متحده آمریکا داشته است و [شکست آمریکا] حتی نزدیک هم نبوده است. دموکرات‌ها و رسانه‌ها کاملاً راه خود را گم کرده‌اند. آن‌ها مطلقاً دیوانه شده‌اند!!! رئیس‌جمهور دی.جی.تی»
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 218061
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔺کشته شدن یک فرمانده جهاد اسلامی در حمله ارتش اسرائیل به بقاع
+
+▪️ارتش اسرائیل روز دوشنبه ۲۸ اردیبهشت، از کشته شدن وائل محمود عبدالحلیم، از فرماندهان جهاد اسلامی فلسطینی، در منطقه بقاع لبنان خبر داد.
+
+⬇️ بیشتر بخوانید:
+
+https://ir.voanews.com/a/palestinian-islamic-jihad-commander-israel-army-killed/8151197.html/?nocach=1
+</div>
+
+## Dirty_Kids — post 389681
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دو تصویر وایرال شده این روزها، واکنش ترامپ به تیراندازی در شبکه افق و خم شدن ترامپ جلوی رئیس جمهور چین فیک بوده؛ یکیشون ادیت و دیگری هوش مصنوعی می‌باشد
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389680
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389680_1779116046.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یک ن‍ــــــــه بزرگ به کیف.
+
+
+@Dirty_Kids 👻
+</div>
+
+## alonews — post 120892
+
+<div align="center">
+  <a href="telegram/content/alonews_120892_1779116047.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پاول دوروف، مالک تلگرام: دلمان برای موشک‌های ایرانی در دبی تنگ شده. دبی پر از ترافیک شده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120891
+
+<div align="center">
+  <a href="telegram/content/alonews_120891_1779116047.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ: اگر ایران تسلیم شود، اعتراف کند که ناوگانشان نابود شده و در کف دریا آرام گرفته است، و نیروی هوایی‌شان دیگر وجود ندارد، و اگر تمام ارتششان تهران را ترک کند، اسلحه‌ها را رها کرده و دست‌هایشان را بالا ببرند و فریاد بزنند «من تسلیم می‌شوم، من تسلیم می‌شوم» و پرچم سفید نمادین را به شدت تکان دهند،
+
+
+🔴 و اگر تمام رهبران باقی‌مانده همه «اسناد تسلیم» لازم را امضا کنند و شکست خود را در برابر قدرت بزرگ و عظمت ایالات متحده آمریکا بپذیرند، آنگاه روزنامه‌های The Failing New York Times، The China Street Journal (WSJ!)، شبکه فاسد و اکنون بی‌اهمیت CNN و همه نمایندگان دیگر رسانه‌های خبری جعلی اعلام خواهند کرد که ایران پیروزی درخشان و استادانه‌ای بر ایالات متحده آمریکا به دست آورده است، حتی قابل مقایسه هم نیست.
+
+
+🔴 دموکرات‌ها و رسانه‌ها کاملاً از مسیر خارج شده‌اند. آنها کاملاً دیوانه شده‌اند!!! رئیس‌جمهور دونالد ج. ترامپ
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 18:13
 ---
 
