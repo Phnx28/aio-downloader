@@ -7,6 +7,236 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 22:34
+---
+
+## VahidOOnLine — post 240847
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️همکاری تازه شرکت سواچ با نشان تجاری لوکس و مشهور «اودمار پیگه» موجی از هیجان در بازار ساعت ایجاد کرده و ساعت‌های این مجموعه محدود اکنون با قیمت‌هایی چندین برابر نرخ اولیه در بازار خرید و فروش دوباره عرضه می‌شوند. این تب خرید در برخی شهرها به ازدحام شدید، کتک‌کاری و حتی تعطیلی فروشگاه‌ها منجر شده است.
+به گزارش نیویورک‌پست، طرح «رویال پاپ» که ترکیبی از طراحی مشهور «رویال اوک» اودمار پیگه و مجموعه «پاپ» سواچ در دهه ۱۹۸۰ است، با قیمت اولیه حدود ۴۰۰ دلار عرضه شد اما به‌سرعت به یکی از داغ‌ترین کالاهای بازار خرید و فروش دوباره تبدیل شد. برخی آگهی‌ها در سایت‌های فروش اینترنتی قیمت‌هایی بیش از ۹ هزار دلار برای این ساعت‌ها ثبت کرده‌اند و مجموعه کامل هشت‌تایی آن نیز تا حدود ۲۲ هزار دلار قیمت‌گذاری شده است.
+فروشندگان بازار جواهرات نیویورک نیز از تقاضای بالا برای برخی رنگ‌های خاص خبر داده‌اند و می‌گویند کمیابی و عرضه محدود این همکاری تازه، عامل اصلی افزایش شدید قیمت‌ها بوده است.
+هم‌زمان گزارش‌ها از هرج‌ومرج در فروشگاه‌های سواچ در نیویورک و چند شهر دیگر حکایت دارد؛ جایی که صدها نفر برای خرید این ساعت‌ها روزها در صف ماندند. ازدحام به حدی رسید که برخی شعب به دلیل نگرانی‌های امنیتی به‌طور موقت تعطیل شدند.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11582
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خدا بخواد به زودی تهران میرسه هر چی که هست 😂🙌🏾
+</div>
+
+## WithYashar — post 11581
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با شما : یاشارررر
+پدافند اصفهان چند دقیقه فعال شد
+@withyashar
+</div>
+
+## mwarmonitor — post 9269
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبر بد
+</div>
+
+## mwarmonitor — post 9268
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+پدافند قشم فعال شد
+</div>
+
+## FoxNewsTwitter — post 341891
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341891_1779131080.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: US Attorney Jeanine Pirro holds news conference on teen takeovers in Washington, D.C. https://twitter.com/i/broadcasts/1qJVmQqoWvYGB
+</div>
+
+## Shin_Persian — post 6067
+
+<div align="center">
+  <img src="telegram/content/Shin_Persian_6067_1779131081.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Mon, 18 May 2026 18:57:46 UTC
+
+Staten-owned MehrNews:
+Air Defense activity in Qeshm island, Hormozgan Province, #Iran
+
+فارسی
+
+خبرگزاری دولتی مهر:
+فعالیت پدافند هوایی در جزیره قشم، استان هرمزگان، #Iran_
+
+𝕏 · @shin_persian
+</div>
+
+## FarsiVOA — post 218081
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218081_1779131082.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی مرکزی ایالات متحده، سنتکام، اعلام کرد اجرای محاصره دریایی آمریکا علیه بنادر ایران همچنان ادامه دارد.
+
+به گفته سنتکام، نیروهای آمریکایی تاکنون مسیر ۸۵ کشتی تجاری را برای اطمینان از اجرای کامل این اقدام تغییر داده‌اند.
+
+@FarsiVOA
+</div>
+
+## DW_Farsi — post 124854
+
+<div align="center">
+  <img src="telegram/content/DW_Farsi_124854_1779131084.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔶 آمریکا: مذاکرات به سختی پیش می‌رود و شاید بمب‌ها سخن بگویند
+
+تنش‌ها میان ایران و آمریکا روز دوشنبه همچنان بالا باقی ماند. یک مقام آمریکایی پیشنهاد متقابل اخیر ایران برای پایان دائمی جنگ را "ناکافی" توصیف کرد و گفت مذاکرات «به‌سختی پیش می‌رود». او هشدار داد اگر ایران همکاری بیشتری نشان ندهد، در صورت لزوم آمریکا "با بمب‌ها سخن خواهد گفت".
+
+همزمان دونالد ترامپ، رئیس جمهور آمریکا به نیویورک پست گفت که پس از دریافت آخرین پاسخ ایران با هدف پایان دادن به جنگ، "هیچ امتیازی برای تهران" قائل نیست و افزود که ایران می‌داند "به زودی چه اتفاقی خواهد افتاد".
+
+او در پاسخ به سوالی در مورد اظهارات قبلی خود مبنی بر اینکه ممکن است تعلیق ۲۰ ساله غنی‌سازی اورانیوم ایران را بپذیرد، گفت: «من در حال حاضر هیچ چیزی را نمی‌پذیرم»، و از ارائه جزئیات بیشتر خودداری کرد.
+
+ترامپ در ادامه به نیویورک پست گفت: «واقعاً نمی‌توانم در مورد آن با شما صحبت کنم. اتفاقات زیادی در حال رخ دادن است.»
+
+او افزود که از ایران "ناامید" نشده است، اما هشدار داد که تهران درک می‌کند که ایالات متحده قادر به افزایش فشار بیشتر است.
+
+@dw_farsi
+</div>
+
+## Persian_Trend_Official — post 14437
+
+<div align="center">
+  <a href="telegram/content/Persian_Trend_Official_14437_1779131084.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💢پیت هگست وزیر جنگ آمریکا در حال تقلید مدل صحبت و صدای ترامپ
+
+🫆:Tony
+
+📌 @persian_trend_official
+پرشین ترند | متفاوت‌ترین کانال نظامی
+</div>
+
+## IranianMinds — post 20361
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴خبرگزاری مهر:
+
+پدافند هوایی قشم فعال شد.
+
+@IranianMinds
+</div>
+
+## BBCPersian — post 281391
+
+<div align="center">
+  <img src="telegram/content/BBCPersian_281391_1779131086.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻دادگاهی در کالیفرنیا شکایت ایلان ماسک، مالک ایکس و تسلا، از شرکت اوپن اِی‌آی، سازنده هوش مصنوعی چت جی‌پی‌تی، را رد کرد.
+
+آقای ماسک ‌هم‌بنیان‌گذار شرکت اوپن اِی‌آی بود و بعدتر این شرکت را متهم کرد که از هدف اولیه‌اش یعنی «خدمت‌رسانی به انسان» عدول کرده است.
+
+هیئت منصفه این دادگاه رای داد که آقای ماسک «خیلی دیر» برای شکایت از سم آلتمن، رئیس اوپن اِی‌آی، اقدام کرده است.
+
+آقای آلتمن و آقای ماسک یکدیگر را به تلاش برای «کسب منفعت مالی» از رشد هوش مصنوعی در سال‌های گذشته متهم کرده‌اند.
+
+آقای ماسک که ثروتمندترین مرد جهان است، در سال ۲۰۱۸ از هیئت‌مدیره اوپن اِی‌آی کناره‌گیری کرد و هوش مصنوعی گروک را برای رقابت با چت جی‌پی‌تی ساخت.
+
+دعوای حقوقی این دو میلیاردر را بسیاری از نزدیک دنبال می‌کنند چرا که معتقدند بر آینده هوش مصنوعی اثرگذار است.
+
+📷 Getty Images
+@BBCPersian
+</div>
+
+## Dirty_Kids — post 389699
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389699_1779131087.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ثبت‌نام جان‌فدا برای جنگ بود یا واسه عروسی؟
+زوج جان‌فدا چیه دیگه پدرسگا؟
+
+معلوم نیست رهبر بوده یا سبزه ۱۳بدر
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389698
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389698_1779131088.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حال و هوای اینترنت طبقاتی
+هرچی طبقاتی‌تر عرزشی لختر
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389697
+
+<div align="center">
+  <img src="telegram/content/Dirty_Kids_389697_1779131090.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تراپی 😂😂😂😂😂😂😂😂
+
+
+@Dirty_Kids 👻
+</div>
+
+## Hranews — post 113020
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+شیراز؛ ۲ شهروند به دلیل استفاده از استارلینک بازداشت شدند
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– فرمانده انتظامی شیراز از بازداشت دو تن به دلیل آنچه «استفاده از اینترنت ماهواره‌ای استارلینک و فروش اینترنت بدون فیلتر» عنوان کرد، خبر داد.
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 120942
+
+<div align="center">
+  <a href="telegram/content/alonews_120942_1779131090.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈پدافند هوایی جزیره قشم فعال شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 22:24
 ---
 
