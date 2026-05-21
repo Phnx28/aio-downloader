@@ -7,6 +7,31 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/01 01:46
+---
+
+## WithYashar — post 11895
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با شما : سلام همچنان صدای پدافند میاد اصفهان.
+@withyashar
+</div>
+
+## alonews — post 121679
+
+<div align="center">
+  <img src="telegram/content/alonews_121679_1779401788.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+یه بسته چیپس ساده شده 525 هزار تومن!!!
+
+هر دونه چیپسی که میخورین 3 هزار تومن ناقابل.
+
+[@AloTweet]
+</div>
+
+---
 📅 بروزرسانی: 1405/03/01 01:42
 ---
 
