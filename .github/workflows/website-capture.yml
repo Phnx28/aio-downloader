@@ -15,14 +15,15 @@ on:
         description: "📄 Save as PDF (with extracted links)"
         type: boolean
         default: true
-      upload_as_release:
-        description: 'Upload files as a GitHub Release (uncheck = split push to repo)'
-        type: boolean
-        default: false
-      upload_to_drive:                                 # ← NEW INPUT
-        description: 'Upload files to Google Drive instead (folder: github-actions)'
-        type: boolean
-        default: false
+      upload_method:
+        description: 'Upload destination'
+        required: true
+        type: choice
+        options:
+          - repo
+          - release
+          - drive
+        default: repo
 
 permissions:
   contents: write
@@ -98,14 +99,12 @@ jobs:
         if: always() && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true')
         id: archive
         run: |
-          UPLOAD_AS_RELEASE="${{ inputs.upload_as_release }}"
-          UPLOAD_TO_DRIVE="${{ inputs.upload_to_drive }}"
-          OUTPUT_DIR="website"
-
-          # If no captures exist, skip
-          if [ ! -d "$OUTPUT_DIR" ] || [ -z "$(ls -A "$OUTPUT_DIR" 2>/dev/null)" ]; then
-            echo "No captures to archive."
-            exit 0
+          UPLOAD_METHOD="${{ inputs.upload_method }}"
+          ...
+          if [ "$UPLOAD_METHOD" = "repo" ]; then
+            METHOD="split_push"
+          else
+            METHOD="release"
           fi
 
           # Drive / Release both prefer unsplit (unless >1950 MiB)
@@ -152,7 +151,7 @@ jobs:
       # GOOGLE DRIVE UPLOAD (NEW)
       # ────────────────────────────────────────────────────────
       - name: "Upload to Google Drive"
-        if: always() && inputs.upload_to_drive == 'true' && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true')
+        if: always() && inputs.upload_method == 'drive' && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true')
         env:
           CLIENT_ID:     ${{ secrets.GOOGLE_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
@@ -227,7 +226,7 @@ jobs:
 
       # ── Push archives to repo (split_push) ─────
       - name: "Commit and push captures"
-        if: always() && inputs.upload_to_drive == 'false' && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true') && (github.event.inputs.upload_as_release == 'false')
+        if: always() && inputs.upload_method == 'repo' && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true')
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -270,7 +269,7 @@ jobs:
 
       # ── Create GitHub Release (release method) ──
       - name: "Create Release and upload assets"
-        if: always() && inputs.upload_to_drive == 'false' && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true') && (github.event.inputs.upload_as_release == 'true')
+        if: always() && inputs.upload_method == 'release' && (github.event.inputs.capture_mhtml == 'true' || github.event.inputs.capture_pdf == 'true')
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
