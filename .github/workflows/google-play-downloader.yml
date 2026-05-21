@@ -29,14 +29,15 @@ on:
         description: 'Bundle all downloaded files into a single ZIP archive before splitting'
         type: boolean
         default: false
-      upload_as_release:
-        description: 'Upload files as a GitHub Release (uncheck = split push to repo)'
-        type: boolean
-        default: false
-      upload_to_drive:                                 # ← NEW INPUT
-        description: 'Upload files to Google Drive instead (folder: github-actions)'
-        type: boolean
-        default: false
+      upload_method:
+        description: 'Upload destination'
+        required: true
+        type: choice
+        options:
+          - repo
+          - release
+          - drive
+        default: repo
 
 permissions:
   contents: write
@@ -154,14 +155,12 @@ jobs:
           mkdir -p "$UPLOAD_DIR"
 
           BUNDLE_ALL="${{ inputs.bundle_all }}"
-          UPLOAD_AS_RELEASE="${{ inputs.upload_as_release }}"
-          UPLOAD_TO_DRIVE="${{ inputs.upload_to_drive }}"
+          UPLOAD_METHOD="${{ inputs.upload_method }}"
 
-          # Drive can handle large files → treat like release (unsplit unless >1950 MiB)
-          if [ "$UPLOAD_TO_DRIVE" = "true" ] || [ "$UPLOAD_AS_RELEASE" = "true" ]; then
-            METHOD="release"
-          else
+          if [ "$UPLOAD_METHOD" = "repo" ]; then
             METHOD="split_push"
+          else
+            METHOD="release"
           fi
 
           # Gather all files from subdirectories
@@ -255,7 +254,7 @@ jobs:
       # GOOGLE DRIVE UPLOAD
       # ────────────────────────────────────────────────────────
       - name: "Upload to Google Drive"
-        if: inputs.upload_to_drive == 'true'
+        if: inputs.upload_method == 'drive'
         env:
           CLIENT_ID:     ${{ secrets.GOOGLE_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
@@ -332,7 +331,7 @@ jobs:
       # EXISTING UPLOAD METHODS (now skipped if Drive is chosen)
       # ────────────────────────────────────────────────────────
       - name: Upload to repository (split_push method)
-        if: ${{ inputs.upload_to_drive == 'false' && inputs.upload_as_release == 'false' }}
+        if: ${{ inputs.upload_method == 'repo' }}
         env:
           BRANCH: ${{ github.ref_name }}
         run: |
@@ -378,7 +377,7 @@ jobs:
           echo "All files uploaded to the 'google-play' folder."
 
       - name: Create Release and upload assets (release method)
-        if: ${{ inputs.upload_to_drive == 'false' && inputs.upload_as_release == 'true' }}
+        if: ${{ inputs.upload_method == 'release' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
