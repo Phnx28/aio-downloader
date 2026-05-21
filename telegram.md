@@ -7,6 +7,21 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/01 02:53
+---
+
+## IranianMinds — post 20510
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20510_1779405801.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴حساب احمد وحیدی، فرمانده سپاه تروریستی پاسداران بسته شد.
+
+@IranianMinds
+</div>
+
+---
 📅 بروزرسانی: 1405/03/01 02:43
 ---
 
