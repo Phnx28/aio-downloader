@@ -44,14 +44,15 @@ on:
         description: 'Bundle all downloaded files into a single ZIP archive before splitting'
         type: boolean
         default: false
-      upload_as_release:
-        description: 'Upload files as a GitHub Release (uncheck = split push to repo)'
-        type: boolean
-        default: false
-      upload_to_drive:                                 # ← NEW INPUT
-        description: 'Upload files to Google Drive instead (folder: github-actions)'
-        type: boolean
-        default: false
+      upload_method:
+        description: 'Upload destination'
+        required: true
+        type: choice
+        options:
+          - repo
+          - release
+          - drive
+        default: repo
 
 permissions:
   contents: write
@@ -607,14 +608,12 @@ jobs:
         run: |
           OUTPUT_FOLDER="youtube"
           BUNDLE_ALL="${{ github.event.inputs.bundle_all }}"
-          UPLOAD_AS_RELEASE="${{ github.event.inputs.upload_as_release }}"
-          UPLOAD_TO_DRIVE="${{ github.event.inputs.upload_to_drive }}"
+          UPLOAD_METHOD="${{ inputs.upload_method }}"
 
-          # Drive can handle large files → treat like release (unsplit unless >1950 MiB)
-          if [ "$UPLOAD_TO_DRIVE" = "true" ] || [ "$UPLOAD_AS_RELEASE" = "true" ]; then
-            METHOD="release"
-          else
+          if [ "$UPLOAD_METHOD" = "repo" ]; then
             METHOD="split_push"
+          else
+            METHOD="release"
           fi
 
           if [ "$BUNDLE_ALL" = "true" ]; then
@@ -687,7 +686,7 @@ jobs:
       # GOOGLE DRIVE UPLOAD
       # ────────────────────────────────────────────────────────
       - name: "Upload to Google Drive"
-        if: inputs.upload_to_drive == 'true'
+        if: inputs.upload_method == 'drive'
         env:
           CLIENT_ID:     ${{ secrets.GOOGLE_CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.GOOGLE_CLIENT_SECRET }}
@@ -762,7 +761,7 @@ jobs:
 
       # ── Upload to repository (split_push) ────────────────
       - name: '📤 Commit & Push Changes'
-        if: ${{ inputs.upload_to_drive == 'false' && github.event.inputs.upload_as_release == 'false' }}
+        if: ${{ inputs.upload_method == 'repo' }}
         run: |
           set -e
           OUTPUT_FOLDER="youtube"
@@ -803,7 +802,7 @@ jobs:
 
       # ── Create GitHub Release (release method) ────────────
       - name: '🚀 Create Release and upload assets'
-        if: ${{ inputs.upload_to_drive == 'false' && github.event.inputs.upload_as_release == 'true' }}
+        if: ${{ inputs.upload_method == 'release' }}
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
